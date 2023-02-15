@@ -1,1 +1,1 @@
-A single page application ui design using mui.
+A single page application design using ReactJS and MUI.
